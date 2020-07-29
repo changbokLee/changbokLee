@@ -7,12 +7,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:changbok2453@gmail.com)](mailto:changbok2453@gmail.com)
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changbokLee)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 [![Github Followers](https://img.shields.io/github/followers/cafemug?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/changbokLee?tab=followers)
 
 
-
+  <div align=center>
 ### 🌱 I’m currently learning html,css javascript, nodejs , react
 ### 💬 About me : [https://changbokLee.github.io/](https://changbokLee.github.io/)
 ### 📫 How to reach me: changbok2453@gmail.com
