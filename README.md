@@ -11,7 +11,7 @@
 
 [![Github Followers](https://img.shields.io/github/followers/cafemug?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/changbokLee?tab=followers)
 
-
+공부중입니당
   
 ### 🌱 I’m currently learning html,css javascript, nodejs , react
 ### 💬 About me : [https://changbokLee.github.io/](https://changbokLee.github.io/)
