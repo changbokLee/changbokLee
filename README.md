@@ -1,20 +1,51 @@
-### 👋Hello Mygithub resume
+<!--
+**tashakim/tashakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, my name is Tasha
+[![Tasha's github stats](https://github-readme-stats.vercel.app/api?username=tashakim&theme=merko&hide_rank=false&hide_title=false&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/tashakim/github-readme-stats)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=puzzles_python&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=apertium-kor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![alt text](https://github.com/tashakim/tashakim/blob/banner_branch/banner-with-an-icy-feel.png?raw=true)
 
-  <div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcafemug)](https://github.com/changbokLee)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changbok-lee-b1542117b/)](https://www.linkedin.com/in/changbok-lee-b1542117b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:changbok2453@gmail.com)](mailto:changbok2453@gmail.com)
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changbokLee)](https://github.com/anuraghazra/github-readme-stats)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--START_SECTION:waka-->
+
+**I'm an early bird** 
+
+```text
+🌞 Morning    144 commits    █████░░░░░░░░░░░░░░░░░░░░   20.48% 
+🌆 Daytime    354 commits    ████████████░░░░░░░░░░░░░   50.36% 
+🌃 Evening    129 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
+🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81%
+```
+**I'm Most Productive on Wednesdays** 
+
+```text
+Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+Tuesday      109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
+Wednesday    145 commits    █████░░░░░░░░░░░░░░░░░░░░   20.63% 
+Thursday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
+Friday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
+Saturday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
+Sunday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
+```
 
 
+**This week I spent my time in** 
 
-[![Github Followers](https://img.shields.io/github/followers/cafemug?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/changbokLee?tab=followers)
+```text
+⌚︎ Timezone: Asia/Seoul
+```
 
-공부중입니당
-  
-### 🌱 I’m currently learning html,css javascript, nodejs , react
-### 💬 About me : [https://changbokLee.github.io/](https://changbokLee.github.io/)
-### 📫 How to reach me: changbok2453@gmail.com
 
-  </div>
+<!--END_SECTION:waka-->
