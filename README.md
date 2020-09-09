@@ -1,10 +1,20 @@
+### Hi there I'm Joy 👋
+Welcome to my GitHub. <br>
+I am an undergraduate student in South Korea.<br>
+I'm interested in Digital forensics and Software Engineering.<br>
+
+
+	
+| 🔭  Languages|🌱  Role in society|💬  How can we meet|
+|:---:|:---:|:---:|
+|**Dart**|A lead of [DSC Korea](https://developers.google.com/)|[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)|
+|**C**|Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyjoy2005@gmail.com)](mailto:happyjoy2005@gmail.com)|
+|**Python**|||
+
+
+
 <!--
-**tashakim/tashakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, my name is Tasha
-[![Tasha's github stats](https://github-readme-stats.vercel.app/api?username=tashakim&theme=merko&hide_rank=false&hide_title=false&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/tashakim/github-readme-stats)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=puzzles_python&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=tashakim&repo=apertium-kor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![alt text](https://github.com/tashakim/tashakim/blob/banner_branch/banner-with-an-icy-feel.png?raw=true)
+**jeongyoonlee2015/jeongyoonlee2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,34 +26,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div align=center> </div>
+
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongyoonlee2015)](https://hits.seeyoufarm.com) 
+	
+  </div>
 -->
 
-<!--START_SECTION:waka-->
 
-**I'm an early bird** 
-text
-🌞 Morning    144 commits    █████░░░░░░░░░░░░░░░░░░░░   20.48% 
-🌆 Daytime    354 commits    ████████████░░░░░░░░░░░░░   50.36% 
-🌃 Evening    129 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81%
-
-**I'm Most Productive on Wednesdays** 
-
-text
-Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Tuesday      109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
-Wednesday    145 commits    █████░░░░░░░░░░░░░░░░░░░░   20.63% 
-Thursday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-Friday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Saturday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Sunday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
-
-
-**This week I spent my time in** 
-
-text
-⌚︎ Timezone: Asia/Seoul
-
-
-
-<!--END_SECTION:waka-->
