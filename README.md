@@ -1,14 +1,4 @@
-### Hi there I'm Joy 👋
-Welcome to my GitHub. <br>
-I am an undergraduate student in South Korea.<br>
-I'm interested in Digital forensics and Software Engineering.<br>
-
-
-	
-| 🔭  Languages|🌱  Role in society|💬  How can we meet|
-|:---:|:---:|:---:|
-|**PYTHON**|A lead of [DSC Korea](https://developers.google.com/)|[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)|
-|**JAVASCRIPT**|Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyjoy2005@gmail.com)](mailto:happyjoy2005@gmail.com)|
+### Hi ther
 
 
 
