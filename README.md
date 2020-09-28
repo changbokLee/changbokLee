@@ -12,8 +12,8 @@
 
 ### Activities
 
-GDG Dajeon staff(2019.08~2019.12)
-UKOV20th (2019.07~2019.08)
+- GDG Dajeon staff(2019.08~2019.12)
+- UKOV20th (2019.07~2019.08)
 
 
 ### Skills
