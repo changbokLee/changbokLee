@@ -5,6 +5,7 @@
 ### Work Experiences
 
  office :snackfor (backendInter):
+ office hyosungIix (dataintern):
 
 ### Project
 : open source contributon : ko.javascript translate eng => kor (2019.08~09)
